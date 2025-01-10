@@ -192,7 +192,7 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         body: |
               ---  使用说明 ---
-              网关：192.168.123.2
+              网关：192.168.124.2
               用户名：root
               密码：password
               kissyouhunter大佬的其它插件一键安装脚本：
